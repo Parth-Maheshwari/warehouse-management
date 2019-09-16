@@ -67,5 +67,5 @@
         <span *ngIf="!editDataForm.get('description').valid">Please enter atleast 5 words.</span>
     </mat-error>
 
-    <button type="submit" mat-raised-button [disabled]="!editDataForm.valid"> submit</button>
+    <button type="submit" mat-raised-button [disabled]="editDataForm.valid"> submit</button>
 </form>

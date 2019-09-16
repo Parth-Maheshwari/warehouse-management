@@ -3,11 +3,11 @@
     {
       "id": 0,
       "objectid": "5d7f112cf983850244bc7174",
-      "productname": "Hatologyalkfsjdlk",
+      "productname": "Parth",
       "category": "DEF",
       "availableunits": 410,
       "unitprice": 55,
-      "lastupdated": "Mon Sep 16 2019 10:59:16 GMT+0530 (India Standard Time)",
+      "lastupdated": "Mon Sep 16 2019 15:41:56 GMT+0530 (India Standard Time)",
       "tags": {
         "tag1": "dolore",
         "tag2": "cillum",
@@ -143,16 +143,16 @@
     {
       "id": 7,
       "objectid": "5d7f112c3ee17a458ac98940",
-      "productname": "Accuprint",
+      "productname": "AccuprintVaibhav",
       "category": "MNO",
       "availableunits": 4145,
       "unitprice": 21,
+      "lastupdated": "Mon Sep 16 2019 12:00:11 GMT+0530 (India Standard Time)",
       "tags": {
         "tag1": "dolor",
         "tag2": "fugiat",
         "tag3": "consequat"
       },
-      "lastupdated": "Thu Mar 13 2008 06:39:13 GMT+0530 (India Standard Time)",
       "location": {
         "area": "Canby",
         "zone": "Fleet Walk",
@@ -2047,7 +2047,7 @@
       "category": "DEF",
       "availableunits": 1,
       "unitprice": 1000,
-      "lastupdated": "Mon Sep 16 2019 11:47:47 GMT+0530 (India Standard Time)",
+      "lastupdated": "Mon Sep 16 2019 11:56:36 GMT+0530 (India Standard Time)",
       "tags": {
         "tag1": "dsafjkl",
         "tag2": "asdlfjioqweu",
@@ -2059,6 +2059,706 @@
         "shelf": "werty"
       },
       "description": "alksdjf jflka sdflkajdsfoiasjdf ajdsf "
+    },
+    {
+      "id": 103,
+      "objectid": "qodyxxpv8uhk55vpq9lk7",
+      "productname": "Prithvi",
+      "category": "asd",
+      "availableunits": 1,
+      "unitprice": 1,
+      "lastupdated": "Mon Sep 16 2019 12:04:39 GMT+0530 (India Standard Time)",
+      "tags": {
+        "tag1": "adfslkj",
+        "tag2": "afsdlkj",
+        "tag3": "dlafksj"
+      },
+      "location": {
+        "area": "sdalkfj",
+        "zone": "alksjd",
+        "shelf": "qwert"
+      },
+      "description": "afkjlasdkf alskdfjlkadsjfkla"
+    },
+    {
+      "id": 104,
+      "objectid": "qpwilei78684ofr545udwl",
+      "productname": "asdfk",
+      "category": "ase",
+      "availableunits": 12,
+      "unitprice": 12,
+      "lastupdated": "Mon Sep 16 2019 12:11:20 GMT+0530 (India Standard Time)",
+      "tags": {
+        "tag1": "12",
+        "tag2": "3jadsf",
+        "tag3": "dsjlk"
+      },
+      "location": {
+        "area": "adskjf",
+        "zone": "ajlsd",
+        "shelf": "qwert"
+      },
+      "description": "dsljkll alkjdfl kasjdfkl jasldkf"
+    },
+    {
+      "objectid": "6y2y3t96afaskovsq3jov",
+      "productname": "Sudhanshu",
+      "category": "GHI",
+      "availableunits": 79878,
+      "unitprice": 8,
+      "lastupdated": "Mon Sep 16 2019 15:02:00 GMT+0530 (India Standard Time)",
+      "tags": {
+        "tag1": "",
+        "tag2": "",
+        "tag3": ""
+      },
+      "location": {
+        "area": "dsf;jaskfjsdkdjaskldjaskdl",
+        "zone": "23424234",
+        "shelf": "34134"
+      },
+      "description": "sdfjsdlfjkasfdsjfdjasldkjasdkasd",
+      "id": 105
+    },
+    {
+      "objectid": "dbi04a2k9rv9ylxzycf8ua",
+      "productname": "dafs",
+      "category": "DEF",
+      "availableunits": 8098,
+      "unitprice": null,
+      "lastupdated": "Mon Sep 16 2019 15:07:43 GMT+0530 (India Standard Time)",
+      "tags": {
+        "tag1": "",
+        "tag2": "",
+        "tag3": ""
+      },
+      "location": {
+        "area": "dljslkaasjdaflksdjas;dj",
+        "zone": "sddfsdkljj",
+        "shelf": "sddfw"
+      },
+      "description": "sfwejedwewewasd;asdkjas",
+      "id": 106
+    },
+    {
+      "objectid": "qkk0dh8sgkn6o0jqbwk33x",
+      "productname": "Parth",
+      "category": "Sud",
+      "availableunits": 1,
+      "unitprice": 1,
+      "lastupdated": "Mon Sep 16 2019 15:08:50 GMT+0530 (India Standard Time)",
+      "tags": {
+        "tag1": "",
+        "tag2": "",
+        "tag3": ""
+      },
+      "location": {
+        "area": "sadasdasd",
+        "zone": "asdasd",
+        "shelf": "33333"
+      },
+      "description": "sdlkjsadlkasjdalskdjasldkjsadkas",
+      "id": 107
+    },
+    {
+      "objectid": "xsbbcuo9gif3i6gtb2cvhg",
+      "productname": "ABC",
+      "category": "123",
+      "availableunits": 123,
+      "unitprice": 23,
+      "lastupdated": "Mon Sep 16 2019 15:11:18 GMT+0530 (India Standard Time)",
+      "tags": {
+        "tag1": "",
+        "tag2": "",
+        "tag3": ""
+      },
+      "location": {
+        "area": "2312312",
+        "zone": "dasdas",
+        "shelf": "22222"
+      },
+      "description": "sadsadasdasdasddasdas",
+      "id": 108
+    },
+    {
+      "objectid": "jgh3fn0jguro3c3mp43pw",
+      "productname": "fa;sdkj",
+      "category": "sd3",
+      "availableunits": 23,
+      "unitprice": 21,
+      "lastupdated": "Mon Sep 16 2019 15:14:16 GMT+0530 (India Standard Time)",
+      "tags": {
+        "tag1": "",
+        "tag2": "",
+        "tag3": ""
+      },
+      "location": {
+        "area": "fldsakjf",
+        "zone": "2312",
+        "shelf": "12311"
+      },
+      "description": "lfjsdal;fksjdkdl;sjfsdlkfjs;kflsdjfkl;jsadfklsdj",
+      "id": 109
+    },
+    {
+      "objectid": "sjahlu47tfka7hgjrnu4",
+      "productname": "",
+      "category": "",
+      "availableunits": null,
+      "unitprice": null,
+      "lastupdated": "Mon Sep 16 2019 15:16:36 GMT+0530 (India Standard Time)",
+      "tags": {
+        "tag1": "",
+        "tag2": "",
+        "tag3": ""
+      },
+      "location": {
+        "area": "",
+        "zone": "",
+        "shelf": ""
+      },
+      "description": "",
+      "id": 110
+    },
+    {
+      "objectid": "cwd9x8tdt5jtcq2j53u3qb",
+      "productname": "",
+      "category": "",
+      "availableunits": null,
+      "unitprice": null,
+      "lastupdated": "Mon Sep 16 2019 15:19:42 GMT+0530 (India Standard Time)",
+      "tags": {
+        "tag1": "",
+        "tag2": "",
+        "tag3": ""
+      },
+      "location": {
+        "area": "",
+        "zone": "",
+        "shelf": ""
+      },
+      "description": "",
+      "id": 111
+    },
+    {
+      "objectid": "q4lqd8as24cu3ct2pf2y1m",
+      "productname": "",
+      "category": "",
+      "availableunits": null,
+      "unitprice": null,
+      "lastupdated": "Mon Sep 16 2019 15:21:23 GMT+0530 (India Standard Time)",
+      "tags": {
+        "tag1": "",
+        "tag2": "",
+        "tag3": ""
+      },
+      "location": {
+        "area": "",
+        "zone": "",
+        "shelf": ""
+      },
+      "description": "",
+      "id": 112
+    },
+    {
+      "objectid": "gv964o117bntdcu5ul5r3o",
+      "productname": "",
+      "category": "",
+      "availableunits": null,
+      "unitprice": null,
+      "lastupdated": "Mon Sep 16 2019 15:21:51 GMT+0530 (India Standard Time)",
+      "tags": {
+        "tag1": "",
+        "tag2": "",
+        "tag3": ""
+      },
+      "location": {
+        "area": "",
+        "zone": "",
+        "shelf": ""
+      },
+      "description": "",
+      "id": 113
+    },
+    {
+      "objectid": "lxc45egqig9nqtafa9299",
+      "productname": "",
+      "category": "",
+      "availableunits": null,
+      "unitprice": null,
+      "lastupdated": "Mon Sep 16 2019 15:23:29 GMT+0530 (India Standard Time)",
+      "tags": {
+        "tag1": "",
+        "tag2": "",
+        "tag3": ""
+      },
+      "location": {
+        "area": "",
+        "zone": "",
+        "shelf": ""
+      },
+      "description": "",
+      "id": 114
+    },
+    {
+      "objectid": "q7ou9d9ztxp4ggtk3ticab",
+      "productname": "",
+      "category": "",
+      "availableunits": null,
+      "unitprice": null,
+      "lastupdated": "Mon Sep 16 2019 15:23:34 GMT+0530 (India Standard Time)",
+      "tags": {
+        "tag1": "",
+        "tag2": "",
+        "tag3": ""
+      },
+      "location": {
+        "area": "",
+        "zone": "",
+        "shelf": ""
+      },
+      "description": "",
+      "id": 115
+    },
+    {
+      "objectid": "ldlranbra9ltpwfll7jhz",
+      "productname": "",
+      "category": "",
+      "availableunits": null,
+      "unitprice": null,
+      "lastupdated": "Mon Sep 16 2019 15:25:46 GMT+0530 (India Standard Time)",
+      "tags": {
+        "tag1": "",
+        "tag2": "",
+        "tag3": ""
+      },
+      "location": {
+        "area": "",
+        "zone": "",
+        "shelf": ""
+      },
+      "description": "",
+      "id": 116
+    },
+    {
+      "objectid": "bn28j3bsn8lmkb78ga7rb",
+      "productname": "",
+      "category": "",
+      "availableunits": null,
+      "unitprice": null,
+      "lastupdated": "Mon Sep 16 2019 15:26:48 GMT+0530 (India Standard Time)",
+      "tags": {
+        "tag1": "",
+        "tag2": "",
+        "tag3": ""
+      },
+      "location": {
+        "area": "",
+        "zone": "",
+        "shelf": ""
+      },
+      "description": "",
+      "id": 117
+    },
+    {
+      "objectid": "y8vvzfp6eibf8fbn6mlrxb",
+      "productname": "",
+      "category": "",
+      "availableunits": null,
+      "unitprice": null,
+      "lastupdated": "Mon Sep 16 2019 15:26:56 GMT+0530 (India Standard Time)",
+      "tags": {
+        "tag1": "",
+        "tag2": "",
+        "tag3": ""
+      },
+      "location": {
+        "area": "",
+        "zone": "",
+        "shelf": ""
+      },
+      "description": "",
+      "id": 118
+    },
+    {
+      "objectid": "6we5n4m6wtyah8t75vm1",
+      "productname": "",
+      "category": "",
+      "availableunits": null,
+      "unitprice": null,
+      "lastupdated": "Mon Sep 16 2019 15:27:08 GMT+0530 (India Standard Time)",
+      "tags": {
+        "tag1": "",
+        "tag2": "",
+        "tag3": ""
+      },
+      "location": {
+        "area": "",
+        "zone": "",
+        "shelf": ""
+      },
+      "description": "",
+      "id": 119
+    },
+    {
+      "objectid": "8ws2agg4rkl89dshbwkmi5",
+      "productname": "",
+      "category": "",
+      "availableunits": null,
+      "unitprice": null,
+      "lastupdated": "Mon Sep 16 2019 15:28:42 GMT+0530 (India Standard Time)",
+      "tags": {
+        "tag1": "",
+        "tag2": "",
+        "tag3": ""
+      },
+      "location": {
+        "area": "",
+        "zone": "",
+        "shelf": ""
+      },
+      "description": "",
+      "id": 120
+    },
+    {
+      "objectid": "dmuyfwvxzotl13mkc15odd",
+      "productname": "",
+      "category": "",
+      "availableunits": null,
+      "unitprice": null,
+      "lastupdated": "Mon Sep 16 2019 15:28:57 GMT+0530 (India Standard Time)",
+      "tags": {
+        "tag1": "",
+        "tag2": "",
+        "tag3": ""
+      },
+      "location": {
+        "area": "",
+        "zone": "",
+        "shelf": ""
+      },
+      "description": "",
+      "id": 121
+    },
+    {
+      "objectid": "moq5nf54wipfdn1kvdf8",
+      "productname": "",
+      "category": "",
+      "availableunits": null,
+      "unitprice": null,
+      "lastupdated": "Mon Sep 16 2019 15:32:20 GMT+0530 (India Standard Time)",
+      "tags": {
+        "tag1": "",
+        "tag2": "",
+        "tag3": ""
+      },
+      "location": {
+        "area": "",
+        "zone": "",
+        "shelf": ""
+      },
+      "description": "",
+      "id": 122
+    },
+    {
+      "objectid": "yzpdljax87ofydbrqvgob",
+      "productname": "",
+      "category": "",
+      "availableunits": null,
+      "unitprice": null,
+      "lastupdated": "Mon Sep 16 2019 15:33:39 GMT+0530 (India Standard Time)",
+      "tags": {
+        "tag1": "",
+        "tag2": "",
+        "tag3": ""
+      },
+      "location": {
+        "area": "",
+        "zone": "",
+        "shelf": ""
+      },
+      "description": "",
+      "id": 123
+    },
+    {
+      "objectid": "d747xx2yl3nk51afskg62",
+      "productname": "",
+      "category": "",
+      "availableunits": null,
+      "unitprice": null,
+      "lastupdated": "Mon Sep 16 2019 15:35:40 GMT+0530 (India Standard Time)",
+      "tags": {
+        "tag1": "",
+        "tag2": "",
+        "tag3": ""
+      },
+      "location": {
+        "area": "",
+        "zone": "",
+        "shelf": ""
+      },
+      "description": "",
+      "id": 124
+    },
+    {
+      "objectid": "0gdk3hrlrybcmohrlvfcmv",
+      "productname": "",
+      "category": "",
+      "availableunits": null,
+      "unitprice": null,
+      "lastupdated": "Mon Sep 16 2019 15:40:06 GMT+0530 (India Standard Time)",
+      "tags": {
+        "tag1": "",
+        "tag2": "",
+        "tag3": ""
+      },
+      "location": {
+        "area": "",
+        "zone": "",
+        "shelf": ""
+      },
+      "description": "",
+      "id": 125
+    },
+    {
+      "objectid": "5cezp2zu8rozrs26d2fuz",
+      "productname": "Darshan",
+      "category": "ahsdh",
+      "availableunits": 845837,
+      "unitprice": 74,
+      "lastupdated": "Mon Sep 16 2019 15:49:24 GMT+0530 (India Standard Time)",
+      "tags": {
+        "tag1": "jfjds",
+        "tag2": "jfdsj",
+        "tag3": "jvjfd"
+      },
+      "location": {
+        "area": "jfasdf",
+        "zone": "fjksdf",
+        "shelf": "fjsdg"
+      },
+      "description": "dhhashd fasdf assdfas asdfas dfas asdf",
+      "id": 126
+    },
+    {
+      "objectid": "vjyjnykuthnxk0oouxdm47",
+      "productname": "",
+      "category": "",
+      "availableunits": null,
+      "unitprice": null,
+      "lastupdated": "Mon Sep 16 2019 15:56:00 GMT+0530 (India Standard Time)",
+      "tags": {
+        "tag1": "",
+        "tag2": "",
+        "tag3": ""
+      },
+      "location": {
+        "area": "",
+        "zone": "",
+        "shelf": ""
+      },
+      "description": "",
+      "id": 127
+    },
+    {
+      "objectid": "jc6cjxxacn76wb2bgzo9w",
+      "productname": "hahsdh",
+      "category": "dha",
+      "availableunits": 777,
+      "unitprice": 22,
+      "lastupdated": "Mon Sep 16 2019 16:06:06 GMT+0530 (India Standard Time)",
+      "tags": {
+        "tag1": "djsaaj",
+        "tag2": "fbsdb",
+        "tag3": "fdsf"
+      },
+      "location": {
+        "area": "fksddffds",
+        "zone": "",
+        "shelf": ""
+      },
+      "description": "",
+      "id": 128
+    },
+    {
+      "objectid": "qutpjxcm1nk208iuob6uhu",
+      "productname": "dsafdsafasdfasdfasdfasdfasdfasdfasdfsa",
+      "category": "",
+      "availableunits": null,
+      "unitprice": null,
+      "lastupdated": "Mon Sep 16 2019 16:10:00 GMT+0530 (India Standard Time)",
+      "tags": {
+        "tag1": "",
+        "tag2": "",
+        "tag3": ""
+      },
+      "location": {
+        "area": "",
+        "zone": "",
+        "shelf": ""
+      },
+      "description": "",
+      "id": 129
+    },
+    {
+      "objectid": "of42sohxndo5nplqdflpqg",
+      "productname": "darshan shah",
+      "category": "",
+      "availableunits": null,
+      "unitprice": null,
+      "lastupdated": "Mon Sep 16 2019 16:10:52 GMT+0530 (India Standard Time)",
+      "tags": {
+        "tag1": "",
+        "tag2": "",
+        "tag3": ""
+      },
+      "location": {
+        "area": "",
+        "zone": "",
+        "shelf": ""
+      },
+      "description": "",
+      "id": 130
+    },
+    {
+      "objectid": "rbzcdm3dvdflsacv64lb9",
+      "productname": "Darshan Shah Darshan",
+      "category": "",
+      "availableunits": null,
+      "unitprice": null,
+      "lastupdated": "Mon Sep 16 2019 16:14:22 GMT+0530 (India Standard Time)",
+      "tags": {
+        "tag1": "",
+        "tag2": "",
+        "tag3": ""
+      },
+      "location": {
+        "area": "",
+        "zone": "",
+        "shelf": ""
+      },
+      "description": "",
+      "id": 131
+    },
+    {
+      "objectid": "0f46udi4jc4bs5k1ya1xfa",
+      "productname": "",
+      "category": "",
+      "availableunits": null,
+      "unitprice": null,
+      "lastupdated": "Mon Sep 16 2019 16:14:48 GMT+0530 (India Standard Time)",
+      "tags": {
+        "tag1": "",
+        "tag2": "",
+        "tag3": ""
+      },
+      "location": {
+        "area": "",
+        "zone": "",
+        "shelf": ""
+      },
+      "description": "",
+      "id": 132
+    },
+    {
+      "objectid": "g4owq4y77gcxzmz2dvquek",
+      "productname": "",
+      "category": "",
+      "availableunits": null,
+      "unitprice": null,
+      "lastupdated": "Mon Sep 16 2019 16:16:43 GMT+0530 (India Standard Time)",
+      "tags": {
+        "tag1": "",
+        "tag2": "",
+        "tag3": ""
+      },
+      "location": {
+        "area": "",
+        "zone": "",
+        "shelf": ""
+      },
+      "description": "",
+      "id": 133
+    },
+    {
+      "objectid": "7hzgybr23gfsc0c3kia17",
+      "productname": "",
+      "category": "",
+      "availableunits": null,
+      "unitprice": null,
+      "lastupdated": "Mon Sep 16 2019 16:16:47 GMT+0530 (India Standard Time)",
+      "tags": {
+        "tag1": "",
+        "tag2": "",
+        "tag3": ""
+      },
+      "location": {
+        "area": "",
+        "zone": "",
+        "shelf": ""
+      },
+      "description": "",
+      "id": 134
+    },
+    {
+      "objectid": "futqltdfj2gu0hcmiym3a",
+      "productname": "",
+      "category": "",
+      "availableunits": null,
+      "unitprice": null,
+      "lastupdated": "Mon Sep 16 2019 16:18:11 GMT+0530 (India Standard Time)",
+      "tags": {
+        "tag1": "",
+        "tag2": "",
+        "tag3": ""
+      },
+      "location": {
+        "area": "",
+        "zone": "",
+        "shelf": ""
+      },
+      "description": "",
+      "id": 135
+    },
+    {
+      "objectid": "3ch1aa1rgpvh5yja83m4b",
+      "productname": "Parth M",
+      "category": "",
+      "availableunits": null,
+      "unitprice": null,
+      "lastupdated": "Mon Sep 16 2019 16:21:57 GMT+0530 (India Standard Time)",
+      "tags": {
+        "tag1": "",
+        "tag2": "",
+        "tag3": ""
+      },
+      "location": {
+        "area": "",
+        "zone": "",
+        "shelf": ""
+      },
+      "description": "",
+      "id": 136
+    },
+    {
+      "objectid": "vi2vj2eppz9dlzcx2rgs7m",
+      "productname": "SD",
+      "category": "",
+      "availableunits": null,
+      "unitprice": null,
+      "lastupdated": "Mon Sep 16 2019 16:30:50 GMT+0530 (India Standard Time)",
+      "tags": {
+        "tag1": "",
+        "tag2": "",
+        "tag3": ""
+      },
+      "location": {
+        "area": "",
+        "zone": "",
+        "shelf": ""
+      },
+      "description": "",
+      "id": 137
     }
   ]
 }

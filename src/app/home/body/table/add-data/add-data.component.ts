@@ -51,13 +51,13 @@ export class AddDataComponent implements OnInit {
   
  
   onSubmit(user){
-    console.log(user.value);
+    console.log("user value",user.value);
     this._inventoryService.save(user.value).subscribe(
       (data: inventory) =>{
-        console.log(data);
+        console.log("data",data);
+        // this.router.navigate(['../'], {relativeTo: this.route});
       }
     )
-    this.router.navigate(['../'], {relativeTo: this.route});
   }
   
 }

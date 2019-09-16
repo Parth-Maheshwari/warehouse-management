@@ -57,7 +57,9 @@ export class EditDataComponent implements OnInit {
   }
   onSubmit(user) {
     console.log(user.value);
-    this._inventoryService.update(user.value);
+    this._inventoryService.update(user.value).subscribe((data)=>{
+      console.log("finalll ::", data);
+    });
   }
 
 

@@ -16,7 +16,7 @@ export class TableComponent implements OnInit {
   @ViewChild(MatPaginator, { static: true }) paginator: MatPaginator;
   @ViewChild(MatSort, { static: true }) sort: MatSort;
 
-  public displayedColumns: string[] = ['id', 'productname', 'category', 'availableunits', 'unitprice'];
+  public displayedColumns: string[] = ['lastupdated', 'productname', 'category', 'availableunits', 'unitprice'];
   constructor(
     private _inventory: InventoryService,
     private router: Router,
@@ -25,6 +25,7 @@ export class TableComponent implements OnInit {
   ) { }
   ngOnInit() {
     this.loadInventory();
+    console.log("is it called again..??")
   }
   loadInventory() {
     this._inventory.behaviorsubject.subscribe(
@@ -58,11 +59,12 @@ export class TableComponent implements OnInit {
       data: row
     });
 
-    dialogRef.afterClosed().subscribe(result => {
-      console.log('The dialog was closed');
-    });
+    // dialogRef.afterClosed().subscribe(result => {
+    //   console.log('The dialog was closed');
+    // });
   }
   
 }
 
-
+//(newData()).getTime
+//Date.parse('');

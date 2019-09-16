@@ -3,6 +3,7 @@ import { HttpClient, HttpHeaders } from '@angular/common/http';
 import { BehaviorSubject, from, Observable } from 'rxjs';
 import { inventory } from './interfaces/inventory';
 import { CATCH_ERROR_VAR } from '@angular/compiler/src/output/abstract_emitter';
+import { tap } from "rxjs/operators";
 
 @Injectable({
   providedIn: 'root'
@@ -17,7 +18,8 @@ export class InventoryService {
   public url = "http://localhost:3000/inventory";
 
   load() {
-    this.httpclient.get<inventory[]>(this.url).subscribe(
+    return this.httpclient.get<inventory[]>(this.url)
+    .subscribe(
       data => {
         this.behaviorsubject.next(data);
       }
@@ -30,17 +32,26 @@ export class InventoryService {
         'Content-Type': 'application/json'
       }) 
     })
-    .pipe();
+    .pipe(
+      tap((data : any)=> {
+        this.data.push(data);
+        this.behaviorsubject.next(this.data);
+      })
+    );
   }
 
-  update(product: inventory){
-    this.httpclient.put<inventory>(this.url + '/' + product.id , product, {
+  update(product: inventory): Observable<inventory>{
+    console.log("in update");
+    return this.httpclient.put<inventory>(`${this.url}/${product.id}` , product, {
       headers:new HttpHeaders({
         'Content-Type': 'application/json'
       })
     })
-    .subscribe(
-      data=> console.log("Is the data modified..?? Yes it is. Hurray..!!")
+    .pipe(
+      tap((data : any)=> {
+        this.data.push(data);
+        this.behaviorsubject.next(this.data);
+      })
     );
   }
 }
