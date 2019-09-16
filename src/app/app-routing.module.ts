@@ -11,7 +11,7 @@ import { EditDataComponent } from './home/body/table/edit-data/edit-data.compone
 import { PageDoesntExistComponent } from './page-doesnt-exist/page-doesnt-exist.component';
 
 const routes: Routes = [
-  
+  { path: "", pathMatch: 'full', component: LandingPageComponent },
   {
     path: "home", component: HomeComponent,
     children: [
@@ -19,20 +19,15 @@ const routes: Routes = [
       {
         path: "body", component: BodyComponent,
         children: [
+          {path: "table", component: TableComponent},
+          { path: "table/addData", component: AddDataComponent },
+          { path: "table/editData", component: EditDataComponent },
           { path: "graphicalRep", component: GraphicalRepComponent },
-          {
-            path: "table", component: TableComponent,
-            children: [
-              { path: "addData", component: AddDataComponent },
-              { path: "editData", component: EditDataComponent }
-            ]
-          }
         ]
       }
     ]
   },
-  { path: "", component: LandingPageComponent },
-  { path: "**", component: PageDoesntExistComponent}
+  { path: "**", component: PageDoesntExistComponent }
 ];
 
 @NgModule({

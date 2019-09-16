@@ -1,0 +1,8 @@
+div {
+    width: 100%;
+    height: 80px;
+    color: blue;
+    background-color: rgb(226, 212, 128);
+    text-align: center;
+    padding-top: 50px;
+}

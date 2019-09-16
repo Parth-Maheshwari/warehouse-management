@@ -1,0 +1,23 @@
+[
+  '{{repeat(100)}}',
+  {
+    id: '{{index()}}',
+    objectid: '{{objectId()}}',
+    productname: '{{company()}}',
+    category: '{{random("ABC", "DEF", "GHI", "JKL", "MNO", "PQR")}}',
+    availableunits: '{{integer(1,10000)}}',
+    unitprice: '{{integer(20,100)}}',
+    tags: {
+      tag1: '{{lorem(1, "words")}}',
+      tag2: '{{lorem(1, "words")}}',
+      tag3: '{{lorem(1, "words")}}'
+    },
+    lastupdated: '{{date()}}',
+    location: {
+		area: '{{city()}}',
+      zone: '{{street()}}',
+      shelf: '{{integer(10, 99)}}{{random("aqw", "sad", "rwh", "gfw")}}'
+    },
+    description: '{{lorem(1, "paragraphs")}}'    
+  }
+]

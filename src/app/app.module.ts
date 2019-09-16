@@ -1,6 +1,6 @@
 import { BrowserModule } from '@angular/platform-browser';
 import { NgModule } from '@angular/core';
-
+import { ReactiveFormsModule, FormBuilder } from '@angular/forms';
 import { AppRoutingModule } from './app-routing.module';
 import { AppComponent } from './app.component';
 import { LandingPageComponent } from './landing-page/landing-page.component';
@@ -16,6 +16,7 @@ import {MaterialModule} from './material/material.module';
 import {InventoryService} from './inventory.service';
 import { HttpClientModule } from '@angular/common/http';
 import { PageDoesntExistComponent } from './page-doesnt-exist/page-doesnt-exist.component';
+import { FormsModule } from '@angular/forms';
 
 
 @NgModule({
@@ -31,12 +32,16 @@ import { PageDoesntExistComponent } from './page-doesnt-exist/page-doesnt-exist.
     EditDataComponent,
     PageDoesntExistComponent
   ],
+  entryComponents: [    EditDataComponent
+    ],
   imports: [
     BrowserModule,
     AppRoutingModule,
     BrowserAnimationsModule,
     MaterialModule,
-    HttpClientModule, 
+    HttpClientModule,
+    ReactiveFormsModule,
+    FormsModule
   ],
   providers: [InventoryService],
   bootstrap: [AppComponent]

@@ -1,14 +1,16 @@
 export interface inventory{
-    "_id"; string,
+    "id": string,
     "index" : number,
     "guid" : string,
     "productname" : string,
     "category" : string,
     "availableunits" : number,
     "unitprice" : number,
-    "tags" : [
-        string, string, string
-    ],
+    "tags" : {
+        "tag1" : string,
+        "tag2" : string,
+        "tag3" : string
+    },
     "lastupdated" : "string",
     "lacation" : {
         "area" : string,
